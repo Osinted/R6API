@@ -1,6 +1,10 @@
 <div align="center">
   <h1>R6API.js</h1>
   <h3>🍫 Node.js wrapper around Rainbow Six: Siege API</h3>
+  
+  #Credits
+  
+  Credits to the Original Owner of the Git, I reupdated the code and worked on some of it. 
 
 ## Table of Contents
 
