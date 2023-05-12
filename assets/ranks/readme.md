@@ -29,7 +29,7 @@
 | `11` | Grim Sky      | September 4, 2018 | 91 Days  |   | `25` | Demon Veil     | March 15, 2022     | 91 Days  |
 | `12` | Wind Bastion  | December 4, 2018  | 92 Days  |   | `26` | Vector Glare   | June 14, 2022      | 84 Days  |
 | `13` | Burnt Horizon | March 6, 2019     | 97 Days  |   | `27` | Brutal Swarm   | September 6, 2022  | 91 Days  |
-| `14` | Phantom Sight | June 11, 2019     | 92 Days  |   | `28` | Solar Raid     | December 6, 2022   |          |
+| `14` | Phantom Sight | June 11, 2019     | 92 Days  |   | `28` | Solar Raid     | December 6, 2022   | 91 Days  |
 
 <!-- END_SECTION:SEASONS_TABLE -->
 
